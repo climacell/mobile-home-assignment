@@ -10,20 +10,40 @@
 
 [The cat in the hat, Dr. Seuss.](http://paulandlizdavies.com/poems/cat.htm)
 
-### Suppose you are standing on the summit of Mt. Washington, New Hampshire, USA on Mar-19th, 2018 with a hat on your head. When would be a good time to take it off before it blows away?
+### The goal of this project is to build a simple and lightweight weather mobile application that provides the weather for all the capital cities of the world.
 
-To answer this question you will have to use [Climacell](https://climacell.co) [Api](https://developer.climacell.co/docs)
+To build this app you will have to use [Climacell](https://climacell.co) [Api](https://developer.climacell.co/docs)
 Explore the api to understand which service suits you best.
 
+Use https://restcountries.eu/rest/v2/all to get the needed data about all the capitals.
+
 #### Required solution:
-* Create a react app that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data to decide when a hat might fly off your head.
-* Display a graph that shows the weather parameter you are using over time with an indication of when would the hat fly.
-* Deploy your solution to a static web hosting service of your choice (such as: `Heroku`, `Github`, `AWS S3`, `Netlify` etc..) so it is publicly available.
+* Create a mobile app that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data needed for a weather app
+
+#### UI:
+* Home Screen - UITableView with search-bar containing the weather for all the capitals. Each cell should contain the following :
+  * Name of the city
+  * Max and Min temperature
+  * Precipitation
+* City details screen - Small map showing where this city is & UITableView with the weather for the next 5 days. Each cell should contain : 
+  * Day
+  * Max and Min temperature
+  * Precipitation
+
+#### Bonus points:
+## Small bonus
+* Caching - cache locally (use db or in memory) the responses from the api and use them when navigating between screens
+* Fahrenheit <-> Celsius - Add a button (right nav bar button) to toggle between the different metrics
+
+## Big bonus
+* MapView - In the main screen add a button switch to a map view. show a pin of every capital with the name and temperature. enable selection of capital and navigation to details screen. 
+* In the city forecast screen : add a scrollable graph displaying minute by minute temperature for the next 24 hours. (Applicable only for cities in the US)
+
 
 #### Guidelines:
 * Pay attention to SW design and clean code (We are believers of the [SOLID](https://en.wikipedia.org/wiki/SOLID) SW design principals).
 * You are free to use any tool / library of your desire.
-* We encourage using [create react app](https://github.com/facebook/create-react-app?files=1).
+* We encourage using swift or kotlin
 
 #### Before you start:
 * Create a branch with your name from the `master` branch
