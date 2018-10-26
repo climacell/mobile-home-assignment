@@ -31,11 +31,11 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
   * Precipitation
 
 #### Bonus points:
-## Small bonus
+##### Small bonus
 * Caching - cache locally (use db or in memory) the responses from the api and use them when navigating between screens
 * Fahrenheit <-> Celsius - Add a button (right nav bar button) to toggle between the different metrics
 
-## Big bonus
+##### Big bonus
 * MapView - In the main screen add a button switch to a map view. show a pin of every capital with the name and temperature. enable selection of capital and navigation to details screen. 
 * In the city forecast screen : add a scrollable graph displaying minute by minute temperature for the next 24 hours. (Applicable only for cities in the US)
 
