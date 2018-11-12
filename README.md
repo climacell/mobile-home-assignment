@@ -21,10 +21,10 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
 * Create a mobile app that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data needed for a weather app
 
 #### UI:
-* Home Screen - UITableView with search-bar containing all the capitals. Each cell should contain the following :
+* Home Screen - Table with search-bar containing all the capitals. Each cell should contain the following :
   * Name of the city and the country
   * Picture of the flag of the country
-* City details screen - Small map showing where this city is & UITableView with the weather for the next 5 days. Each cell should contain : 
+* City details screen - Small map showing where this city is & TableView with the weather for the next 5 days. Each cell should contain : 
   * Day
   * Max and Min temperature
   * Precipitation
