@@ -45,7 +45,6 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
 * We encourage using swift or kotlin
 
 #### Before you start:
-* Create a branch with your name from the `master` branch
 * Request for an `apikey` to work with [Climacell Api](https://developer.climacell.co/docs)
 
 
