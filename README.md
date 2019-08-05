@@ -36,7 +36,7 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
 
 ##### Big bonus
 * MapView - In the main screen add a button switch to a map view. show a pin of every capital with the name. enable selection of capital and navigation to details screen. 
-* In the city forecast screen : add a scrollable graph displaying minute by minute temperature for the next 24 hours. (Applicable only for cities in the US)
+* In the city forecast screen : add a scrollable graph displaying minute by minute temperature for the next 6 hours. (Applicable only for cities in the US)
 
 
 #### Guidelines:
