@@ -12,13 +12,13 @@
 
 ### The goal of this project is to build a simple and lightweight weather mobile application that provides the weather for all the capital cities of the world.
 
-To build this app you will have to use [Climacell](https://climacell.co) [Api](https://developer.climacell.co/docs)
+To build this app you will have to use [Tomorrow.io](https://tomorrow.io) [Api](https://developer.tomorrow.io/docs)
 Explore the api to understand which service suits you best.
 
 Use https://restcountries.eu/rest/v2/all to get the needed data about all the capitals.
 
 #### Required solution:
-* Create a mobile app that uses [Climacell Api](https://developer.climacell.co/docs) to get the weather data needed for a weather app
+* Create a mobile app that uses [Tomorrow,io Api](https://developer.tomorrow.io/docs) to get the weather data needed for a weather app
 
 #### UI:
 * Home Screen - Table with search-bar containing all the capitals. Each cell should contain the following :
@@ -45,7 +45,7 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
 * We encourage using swift or kotlin
 
 #### Before you start:
-* Request for an `apikey` to work with [Climacell Api](https://developer.climacell.co/docs)
+* Create an `apikey` using [Tomorrow.IO](https://app.tomorrow.io/signup?planid=60d46beae90c3b3549a59ff3)
 
 
 Don't hesitate to contact with any question.
