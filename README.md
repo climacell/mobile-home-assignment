@@ -15,7 +15,7 @@
 To build this app you will have to use [Tomorrow.io](https://tomorrow.io) [Api](https://developer.tomorrow.io/docs)
 Explore the api to understand which service suits you best.
 
-Use https://restcountries.eu/rest/v2/all to get the needed data about all the capitals.
+Use https://restcountries.com/ to get the needed data about all the capitals.
 
 #### Required solution:
 * Create a mobile app that uses [Tomorrow,io Api](https://developer.tomorrow.io/docs) to get the weather data needed for a weather app
