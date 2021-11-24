@@ -8,7 +8,7 @@
 > so we sat in the house.   
 > all that cold, cold, wet day.  
 
-[The cat in the hat, Dr. Seuss.](http://paulandlizdavies.com/poems/cat.htm)
+The cat in the hat, Dr. Seuss.
 
 ### The goal of this project is to build a simple and lightweight weather mobile application that provides the weather for all the capital cities of the world.
 
