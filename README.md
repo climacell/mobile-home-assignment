@@ -45,7 +45,7 @@ Use https://restcountries.eu/rest/v2/all to get the needed data about all the ca
 * We encourage using swift or kotlin
 
 #### Before you start:
-* Create an `apikey` using [Tomorrow.IO](https://app.tomorrow.io/signup?planid=60d46beae90c3b3549a59ff3)
+* Create an `apikey` using [Tomorrow.io](https://app.tomorrow.io/signup?planid=60d46beae90c3b3549a59ff3)
 
 
 Don't hesitate to contact with any question.
